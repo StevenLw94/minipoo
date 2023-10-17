@@ -1,0 +1,2 @@
+# minipoo
+ le jeu ruby 
