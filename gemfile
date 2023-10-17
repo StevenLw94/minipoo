@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+gem 'pry'
+gem 'bundler'
+ruby '3.2.2'
